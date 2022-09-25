@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --ireference=olle hello
+chmod --reference=olle hello
